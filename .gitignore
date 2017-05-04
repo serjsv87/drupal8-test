@@ -12,8 +12,8 @@
 
 # Ignore core and vendor when managing dependencies with Composer.
 #core
-vendor
-modules/contrib
+/vendor
+/modules/contrib
 themes/contrib
 profiles/contrib
 
