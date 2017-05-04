@@ -14,8 +14,8 @@
 #core
 /vendor
 /modules/contrib
-themes/contrib
-profiles/contrib
+/themes/contrib
+/profiles/contrib
 
 
 
