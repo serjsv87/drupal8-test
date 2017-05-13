@@ -123,3 +123,22 @@ Administration > Configuration > User interface > Shortcuts (admin/config/user-i
 Туториал мне понравился
 
 https://internetdevels.ru/blog/building-drupal-8-modules-a-practical-guide
+
+
+## Вторая проблема с шот линками, личения это удаления" :) как по другому пока не понятно
+
+
+~~~
+
+The import failed due for the following reasons:                    [31;40m[1m[error][0m
+Site UUID in source storage does not match the target storage.
+Entities exist of type <em class="placeholder">Shortcut link</em>
+and <em class="placeholder"></em> <em
+class="placeholder">Default</em>. These entities need to be deleted
+before importing.
+
+~~~
+
+удалить шотлинки здесь
+
+admin/config/user-interface/shortcut
